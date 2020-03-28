@@ -1,5 +1,5 @@
 # Be The Hero
-Application, developed on Semaa OmniStack 11.0 provided by Rocket Seat.
+Application, developed on week OmniStack 11.0 provided by Rocket Seat.
 
 Using:
 > React<p>
