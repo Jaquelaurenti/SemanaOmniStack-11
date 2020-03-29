@@ -13,6 +13,7 @@ Front End: <p>
 
 Mobile: <p>
   - [x] React-Native <p> 
+  - [x] Expo <p>
 
 Tests: <p>
   - [x] Units Tests
