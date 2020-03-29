@@ -12,5 +12,4 @@ app.use(express.json());
 app.use(routes);
 app.use(errors());
 
-// exportando o app para que seja possível controlar o que vai subir ou não nos ambientes de dev e teste
 module.exports = app;

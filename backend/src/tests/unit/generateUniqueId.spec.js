@@ -1,4 +1,4 @@
-const generateUniqueId = require('../../src/utils/generateUniqueId')
+const generateUniqueId = require('../../utils/generateUniqueId')
 
 describe('Generate Unique Id', () => {
     it('gerando uma chave unica do ID e validando se a mesma possui 8 caracteres', () => {
