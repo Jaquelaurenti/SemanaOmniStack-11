@@ -5,6 +5,10 @@ Using:
 > React<p>
 > React-Native <p>
 > Knex to manipulate SQLite <p>
+For Tests: <p>
+> Jest <p>
+> SuperTest <p>
+
 
 ## Installation
 ```
